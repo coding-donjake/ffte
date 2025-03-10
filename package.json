@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "electron": "^35.0.1"
+  },
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
